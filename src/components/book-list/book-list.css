@@ -1,0 +1,9 @@
+.book-list {
+    list-style: none;
+}
+
+@media screen and (max-width: 560px) {
+    .book-list {
+        padding: 0;
+    }
+}
